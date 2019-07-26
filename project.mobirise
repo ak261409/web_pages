@@ -35,7 +35,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 9,
-    "versionPublish": "4.10.6"
+    "versionPublish": "4.10.6",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
